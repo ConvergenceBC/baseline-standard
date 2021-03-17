@@ -1,3 +1,4 @@
+
 # Baseline Protocol Specifications
 
 ![Baseline Logo](https://raw.githubusercontent.com/ethereum-oasis/baseline/master/docs/assets/baseline-logo/Web/examples/PNGs/horizontal/baselineHorizontal-Logo-FullColor.png)
